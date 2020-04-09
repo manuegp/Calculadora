@@ -12,7 +12,7 @@ package calculadora;
 public class Calculadora {
     private int num1; /*@see*/
     private int num2;
-    //ESTO HA SIDO EDITADO DESDE COMANDOS
+    //ESTO HA SIDO EDITADO DESDE github para verlo desde la terminal de github
     /**
      *
      * @param a
